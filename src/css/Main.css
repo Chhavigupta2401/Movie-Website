@@ -1,0 +1,175 @@
+.tt {
+  color: white;
+  margin-left: -156px;
+  margin-right: 5px;
+}
+.td {
+  background-color: #6c757d;
+  width: 34px;
+  margin-left: 12px;
+  font-size: 13px;
+  padding: 0.5rem !important;
+  color: white;
+  height: 33px;
+  margin-right: 13px;
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+.c-logo {
+  margin-top: 5em;
+  border-left: 0.313em solid red;
+  background: transparent
+    linear-gradient(270deg, rgba(11, 1, 2, 0), rgba(255, 55, 65, 0.3));
+  padding: 0.8em 0.625em 0.625em 0.938em;
+  width: 8.938em;
+  position: relative;
+  overflow: hidden;
+}
+.img2 {
+  width: 6.2em;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-style: none;
+}
+.tex {
+  transform: translate(0px, 0px);
+  opacity: 1;
+  background: url(/public/images/texure.5fd81b0e.jpg);
+  background-repeat: repeat-x;
+  background-position: 100% 100%;
+  color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -1.34688px;
+  text-transform: uppercase !important;
+  font-family: "Helvetica Neue Regular";
+  font-size: 5em;
+}
+h1 {
+  font-weight: 700;
+  margin: 0;
+  line-height: 1.5;
+  display: block;
+}
+.para {
+  transform: translate(0px, 0px);
+  opacity: 1;
+  line-height: 1.66em;
+  color: white;
+  margin: 1.25em 0;
+  font-size: 18px;
+}
+
+.st {
+  color: red;
+  font-size: 1.125em;
+  font-weight: 400;
+  margin-bottom: 0.313em;
+}
+.ts {
+  color: white;
+  font-size: 0.875em;
+  font-weight: 400;
+  margin-left: 1em;
+}
+.trending-list {
+  font-size: 18px;
+  line-height: 2em;
+}
+.re {
+  transform: translate(0px, 0px);
+  opacity: 1;
+  margin-top: 30px;
+}
+.btn-hover {
+  padding: 0.75em 1.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  background: #bf000a;
+  border: 0.063em solid #bf000a;
+  color: #fff;
+  vertical-align: middle;
+  box-shadow: 0 0 0.063em transparent;
+}
+.btn .btn-hover {
+  position: relative;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 1.5;
+}
+.btn {
+  z-index: 4;
+  border-radius: 0%;
+  font-weight: 400;
+  user-select: none;
+}
+a {
+  text-decoration: none;
+}
+
+.coll {
+  width: 267px;
+}
+
+.uli.li {
+  list-style: none;
+  margin-right: 0.5rem;
+  display: inline-block;
+  position: relative;
+}
+.uli.li {
+  color: red;
+}
+
+.padingCont {
+  color: white;
+}
+
+.fa-solid {
+  margin: 0px;
+}
+.contis {
+  padding: 0 6.25em;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+li.lis {
+  margin-right: 5px;
+  color: #bf000a;
+}
+.padingCont {
+  display: flex;
+  text-align: center;
+  max-width: 100%;
+
+  transform: translate(199px, 226px);
+}
+
+.w-trailor {
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 0.21875em;
+  font-weight: 400;
+  color: white;
+  margin-left: 0.9375em;
+  vertical-align: middle;
+}
+.playbtn {
+  display: block;
+  font-size: 80px;
+  text-align: center;
+  transform: translate(-90px, -137px);
+  color: white;
+}
+

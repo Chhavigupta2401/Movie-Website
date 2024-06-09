@@ -1,0 +1,112 @@
+.conti {
+    padding: 0 6.25em;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+  }
+  .navbar-expand-lg {
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+  }
+  .navbar{
+    display: flex;
+    position: relative;
+  }
+  .navbar-dark .navbar-brand{
+    color: rgba(0,0,0,.9);
+  }
+  .navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+  }
+  a{
+    text-decoration: none;
+    outline: medium none;
+    background-color: transparent;
+  }
+  col-7 menu{
+  display: inline-block;
+  width: 100%;
+  }
+  header .navbar ul.navbar-nav {
+    display: block;
+    text-align: center;
+  }
+  .ml-auto, .mx-auto {
+    margin-left: auto!important;
+  }
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    justify-content: center;
+    font-size: 18px;
+  }
+  ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    margin-top: 0;
+  }
+   ul li {
+    list-style: none;
+    margin-right: 1.125em;
+    display: inline-block;
+    position: relative;
+  }
+  navbar ul li i {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 1.125em;}
+    .img1.d-flex.align-item-center {
+      width: 89px;
+      height: 11px;
+  }
+  .col-7{
+    margin-left: 96px;
+  }
+  ul li a{
+    color: white;
+  }
+  ul li a:hover{
+    color: #e50914;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -1em;
+    margin-left: -1em;
+    margin-top: 1rem;
+}
+img.logo{
+  width: 8rem;
+}
+img{
+  border-style: none;
+  vertical-align: middle;
+  overflow-clip-margin: content-box;
+    overflow: clip;;
+}
+.img1{
+
+  height: 2.5em;
+  margin-bottom: 29px;
+  padding: 2px;
+  width: 2.5em;
+  /* min-width: 2.5em; */
+  line-height: 2.5em;
+}
+.rounded-circle {
+  border-radius: 50%!important;
+}

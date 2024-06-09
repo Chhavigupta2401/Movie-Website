@@ -1,0 +1,233 @@
+
+
+.iq{
+
+    text-decoration: none;
+    font-weight: 700;
+color: white;
+margin: 0px 102px;
+}
+
+.rowy{
+    margin-top: 75px;
+}
+.owly{
+    margin-top: 500px;
+    margin: 45px 102px;
+    position: relative;
+
+}
+h5.hd {
+    margin-top: -147px;
+    color: white;
+    font-size: 1.125em;
+
+    text-transform: capitalize;
+}
+.hea {
+    margin: 0px 27px;
+}
+.time{
+    font-size: .875em;
+    color: white;
+    margin-bottom: 0.5rem;
+
+}
+button.btx {
+    background-color: #bf000a;
+    color: white;
+    border: none;
+    padding: 0.313em 0.938em;
+    font-size: .875em;
+}
+.fa{
+
+    font-size: 12px;
+    display: inline-block;
+
+
+    margin-right: 0.25rem!important;
+}
+.hand{
+    margin-top: 700px;
+    margin: 45px 102px;
+    position: relative;
+    background-image: linear-gradient(80deg,rgb(0,0,0),rgb(211,186,186,0.2)),url("/public/images/07.0de09d3d.jpg");
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.card.cd {
+    width: 329px;
+    box-shadow: 9px 14px 13px 12px #0c0a0a;
+    margin: 0px 48px;
+}
+h3.title{
+    font-size: 1.8em;
+    font-weight: 500;
+
+    color: white;
+    margin: 0px 76px;
+    text-transform: capitalize;
+}
+
+.sticky{
+    background-image: linear-gradient(80deg,rgb(0,0,0),rgb(211,186,186,0.2)),url("/public/images/p2.8c7c77c9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1.bae{
+    transform: translate(0px, 0px);
+    opacity: 1;
+    background:  url(/public/images/texure.5fd81b0e.jpg);
+    background-repeat: repeat-x;
+    background-position: 100% 100%;
+    color: transparent;
+    -webkit-font-smoothing: antialiased;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -1.34688px;
+    text-transform: uppercase!important;
+    font-family: "Helvetica Neue Regular";
+    font-size: 5em;
+    font-style: italic;
+}
+.feed {
+    margin: 110px 90px;
+}
+.icns{
+    color: #bf000a;
+    display: flex;
+    gap: 7px;
+}
+.ics{
+    gap: 17px;
+}
+.plus{
+
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    margin-right: 1rem!important;
+    color: #fff;
+    background-color: #6c757d;
+
+}
+.time{
+    color: white;
+    font-size: 1em;
+
+}
+p.lorem{
+    margin-top: 1em;
+    margin-bottom: 1rem;
+    line-height: 1.66em;
+    color: white;
+    font-size: 18px;
+}
+.line{
+    margin-top: 18px;
+}
+.info{
+    gap: 41px;
+}
+.more{
+    background: transparent;
+    color: white;
+   font-size: 18px;
+}
+a.more.btn:hover{
+    color: #bf000a;
+}
+img.ima {
+    box-shadow: 0 1.25em 2.5em rgba(0,0,0,.6);
+    width: 75%;
+    margin: 130px 38px;
+}
+.sticky{
+    position: sticky;
+}
+.camp{
+
+    background-image: linear-gradient(80deg,rgb(0,0,0),rgb(211,186,186,0.2)),url("/public/images/01.1d388ee7.jpg");
+    width: 1175px;
+
+    margin: 74px 47px;
+    position: relative;
+}
+.tab-title{
+    z-index: 99;
+    position: relative;
+}
+.trending-pills{
+    background: rgba(0,0,0,.25);
+    list-style: none;
+
+}
+a.nav-link {
+    color: white;
+    background: transparent;
+    margin-left: 0.938em;
+    margin-right: 0.938em;
+    text-transform: uppercase;
+    font-size: 19px;
+    margin-top: 13px;
+}
+a.nav-link:hover{
+    color: red;
+
+        border-top: 3px solid red;
+        background: linear-gradient(0deg,rgba(83,100,141,0) 0,rgba(218,64,60,.3) 85%);
+}
+
+
+h1.tex.texta {
+
+margin: 7px 0px;
+    transform: translate(-15px, 11px);}
+
+    .ssns{
+        color: white;
+    gap: 20px;
+    font-size: 28px;
+    margin-left: -748px;
+    margin-top: 40px;
+    letter-spacing: .044em
+    }
+    .space{
+        transform: translate(5px, -28px);
+
+        padding: 0 3.125em;
+
+    }
+    .rate {
+        background-color: #6c757d;
+        padding: 10px 15px;
+        margin: -12px;
+        font-weight: 700;
+    }
+    .se {
+        font-weight: 600;
+    }
+    .text-gold{
+        color: #E6C757;
+        margin-left: 1em;
+        margin-top: 23px;
+    }
+    .series {
+        margin-top: 57px;
+    }
+    .trending-list.tds {
+        margin-top: 21px;
+    }
+    .para.ps{
+        width: 411px;
+    }
