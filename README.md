@@ -1,3 +1,6 @@
+# Preview site
+https://movie-website-eight-sooty.vercel.app/
+
 # Movie App Landing Page
 
 A modern and responsive UI design for a movie app's landing page, built with HTML, CSS, and JavaScript.
@@ -19,7 +22,7 @@ A modern and responsive UI design for a movie app's landing page, built with HTM
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/Movie-Website.git
+https://github.com/Chhavigupta2401/Movie-Website.git
    ```
 
 2. **Navigate to the project directory:**
