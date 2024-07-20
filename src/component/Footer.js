@@ -15,9 +15,9 @@ export default function Footer() {
                     Email us: <span style={{ color: "white" }}>@username</span>
                   </span>
                   <span> Customer Services</span>
-                  <h5 style={{ color: "white", fontWeight: "600" }}>
+                  <h6 style={{ color: "white", fontWeight: "400" }}>
                     +(91) 9775643210
-                  </h5>
+                  </h6>
                 </div>
               </div>
               <div className="col-xl-2 col-lg-2 col-md-2 col-sm-12 d-lg-block d-none" style={{width:"13%"}}>
